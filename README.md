@@ -24,7 +24,7 @@ Conduit acts as a Discord interface for your self-hosted home lab environment. I
 * **Language:** Python 3.x
 * **Framework:** `discord.py` (Cogs-based architecture)
 * **Integrations:** Jellyfin API, Sonarr API, Minecraft RCON
-* **Environment:** Arch Linux (Home Lab)
+* **Environment:** Linux (Home Lab)
 
 ---
 ## 🚀 Upcoming Features
