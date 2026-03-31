@@ -30,7 +30,7 @@ Conduit acts as a Discord interface for your self-hosted home lab environment. I
 ## 🚀 Upcoming Features
 ### Short term:
 * **Flexible Server Module:** Biggest change! Converting the Minecraft cog into a general server module. Will be able to handle every server you have. 
-* **Plex support:** Adding a secondary media providerr module.
+* **Plex support:** Adding a secondary media provider module.
 * **Temperature Alerts:** Automated Discord notification if the server core gets too hot.
 
 ### Long term:
