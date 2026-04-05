@@ -48,9 +48,9 @@ A seamless integration with your local Sonarr instance. This module allows users
 ### 🍿 Jellyfin Quick Connect (JellyfinCog)
 A custom authentication module that allows users in your Discord server to automatically create and log into your Jellyfin media server without needing to remember a password. It maps a user's Discord ID to a new Jellyfin account and authorizes their TV/mobile device remotely via Quick Connect codes.
 
-`jf-signup <username>`: Instantly creates a new, passwordless Jellyfin account mapped to your Discord ID.
+* `jf-signup <username>`: Instantly creates a new, passwordless Jellyfin account mapped to your Discord ID.
 
-`jf-login <code>`: Authorizes a 6-digit Jellyfin Quick Connect code displayed on your TV or mobile app, logging you in automatically.
+* `jf-login <code>`: Authorizes a 6-digit Jellyfin Quick Connect code displayed on your TV or mobile app, logging you in automatically.
 
 ### 💻 System & Core Utilities (SystemCog)
 The foundational module for Conduit. This cog handles basic bot functionality, dynamic help menus, and provides a real-time hardware monitoring dashboard for the host machine.
